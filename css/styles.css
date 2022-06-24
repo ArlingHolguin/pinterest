@@ -72,7 +72,7 @@ img {
 }
 
 .gallery {
-    columns: 7 250px;
+    columns: 7 200px;
     column-gap: 0.5em;
     padding-left: 3em;
     padding-right: 3em;
